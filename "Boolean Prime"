@@ -20,8 +20,8 @@ for( i = 2, i <= n, ++i)
     }
 }
 if (isPrime)
-  cout << "This is a Prime number"
+  cout << "Prime!"
  else
-  cout << "This is not a Prime number"
+  cout << "Wrong, Try Again"
  return 0;
  }
