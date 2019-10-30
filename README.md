@@ -1,2 +1,3 @@
-# Tutorial-isPrime
-Beginner level tutorial on whether an integer equates a Prime Number
+                                    Decentralized map 
+
+Intended to give developers the freedom to create what they will of the world
