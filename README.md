@@ -1,3 +1,1 @@
-                                    Decentralized map 
-
-Intended to give developers the freedom to create what they will of the world
+Yahtzee! Computing the probability of rolling a yahtzee on the first try.
